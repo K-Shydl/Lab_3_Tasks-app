@@ -1,5 +1,3 @@
----
-
 ## Варіант 4: "Мої завдання"
 
 ### Екрани
@@ -44,5 +42,3 @@
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1W8tCVqOU-VmVWp-tRGoePXWM43LTSpNe" style="width: 33%; height: auto;" />
 </p>
-
----
